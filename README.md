@@ -7,6 +7,8 @@
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:everestkc@example.com)
 </div>
 
+![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=everestkc&show_icons=true&theme=buefy&hide=prs,issues&count_private=true)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=everestkc&layout=compact&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
 ## ⚙️ About Me
@@ -48,5 +50,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=everestkc&show_icons=true&theme=buefy&hide=prs,issues&count_private=true)
-[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=everestkc&layout=compact&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
