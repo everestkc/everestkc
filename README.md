@@ -20,7 +20,7 @@ Before graduate school, I spent 6+ years at guardsix (previously LogPoint), a le
 
 During my time at Boise State, I worked as a Graduate Teaching Assistant helping students with *Introduction to Computer Programming in Java*  and *Computer Security and Information Assurance*, and conducted research in privacy-preserving location-based services.
 
-I care deeply about open source, security, and building systems that are robust, reliable, and elegant. I'm a **philomath** and am always looking for the next meaningful challenge.
+I care deeply about **open source, security, and building systems that are robust, reliable, and elegant**. I'm a **philomath** and am always looking for the next meaningful challenge.
 
 ⚡ Fun fact: I hold a Bachelor's in Computer Engineering, Bachelor's in Law, a Master's in Political Science, AND a Master's in Computer Science. Apart from nerdy tech talks, I love exploring the intersection of technology and policy. Systems and societies both run on good architecture.
 
@@ -30,7 +30,7 @@ I care deeply about open source, security, and building systems that are robust,
 
 ### 🐍 PyCon US 2026 — Long Beach, CA
 > *May 2026*
-- ⚡ **Lightning Talk** — *"DIY NFC for Networking at Conferences"*
+- ⚡ **Lightning Talk** — *"DIY NFC for Networking at Conferences"*
 - 🪧 **Poster Presentation** — *"From Chaos to Clarity: Automating History Clean-Up and Mono-Repo Migration with `git-filter-repo`"*
   - Co-presented with **Shiva Gaire**
   - Showcased automation strategies for Git history rewriting and large-scale monorepo migrations
