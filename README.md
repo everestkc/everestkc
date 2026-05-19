@@ -1,6 +1,6 @@
 ## Hi, I'm Everest K.C. 👋
 
-** Software Engineer · DevSecOps Enginner · Open Source Enthusiast **
+** Software Engineer · DevSecOps Enginner · Open Source Enthusiast **    
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/everestkc)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:everestkc@example.com)
 <!--
