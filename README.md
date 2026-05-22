@@ -16,7 +16,7 @@
 ## ⚙️ About Me
 I'm a recent MS Computer Science graduate from Boise State University with 6+ years of experience across Software Engineering, Site Reliability Engineering, DevOps, Cloud Infrastructure, and Cybersecurity. My work spans large-scale secure cloud architecture, CI/CD, Linux systems, large-scale software engineering, open source contributions, and privacy-focused research. I've presented at PyCon US, contributed to the Linux kernel, and hold a growing stack of certifications across security, cloud, and systems domains.
 
-Before graduate school, I spent 6+ years at guardsix (previously LogPoint), a leading SIEM platform, where I grew from Associate System Engineer to Lead Architect & Senior DevOps Engineer, building secure and scalable software and cloud infrastructure for enterprise clients worldwide.
+Before graduate school, I spent 6+ years at guardsix (previously LogPoint), a leading SIEM platform, where I grew from Associate Software Engineer to Lead Architect & Senior DevOps Engineer, building secure and scalable software and cloud infrastructure for enterprise clients worldwide.
 
 During my time at Boise State, I worked as a Graduate Teaching Assistant helping students with *Introduction to Computer Programming in Java*  and *Computer Security and Information Assurance*, and conducted research in privacy-preserving location-based services.
 
